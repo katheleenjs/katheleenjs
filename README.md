@@ -4,7 +4,7 @@
 
 ### Oi, eu sou a Katheleen :D
 
-Migrei para a área de tecnologia através da formação em Desenvolvimento Front-end pelo Instituto PROA + Serasa Experian.
+Me interessei pela área de tecnologia através da formação em Desenvolvimento Front-end pelo Instituto PROA + Serasa Experian.
 
 ## Tecnologias
 <div align="left">
